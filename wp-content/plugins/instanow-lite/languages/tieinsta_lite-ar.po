@@ -1,0 +1,719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InsraNOW Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-15 09:12+0200\n"
+"PO-Revision-Date: 2016-07-15 09:12+0200\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: TieLabs <info@tielabs.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../instanow-lite-admin.php:12 ../instanow-lite-admin.php:13
+#: ../instanow-lite-admin.php:878
+msgid "Settings"
+msgstr "إعدادات"
+
+#: ../instanow-lite-admin.php:14
+msgid "PRO Features"
+msgstr "‎النسخة الكاملة"
+
+#: ../instanow-lite-admin.php:54 ../instanow-lite-admin.php:376
+msgid "Upgrade to InstaNOW PRO"
+msgstr "‎الترقية إلى نسخة InstaNow المدفوعة"
+
+#: ../instanow-lite-admin.php:55 ../instanow-lite-admin.php:391
+msgid "Upgrade NOW"
+msgstr "‎قم بالترقية الآن"
+
+#: ../instanow-lite-admin.php:62 ../instanow-lite-admin.php:379
+msgid "Show Unlimited Photos."
+msgstr "‎عرض عدد لانهائي من الصور‫.‬"
+
+#: ../instanow-lite-admin.php:66 ../instanow-lite-admin.php:383
+msgid "Open photos in an incredible lightbox."
+msgstr "‎عرض الصور في لايت بوكس رائع‫.‬"
+
+#: ../instanow-lite-admin.php:70 ../instanow-lite-admin.php:384
+msgid "More Skins options."
+msgstr "‎المزيد من الإنماط‫.‬"
+
+#: ../instanow-lite-admin.php:74 ../instanow-lite-admin.php:386
+msgid "More Account Info area layouts."
+msgstr "‎المزيد من الأشكال لمعلومات الحساب‫.‬"
+
+#: ../instanow-lite-admin.php:78 ../instanow-lite-admin.php:387
+msgid "Compatibility with the Visual Composer plugin."
+msgstr "‎التوافقية مع إضافة Visual Composer."
+
+#: ../instanow-lite-admin.php:82 ../instanow-lite-admin.php:382
+msgid "Separate the feed to pages via Load More option."
+msgstr "‎فصل الصور في صفحات عن طريق زر تحميل المزيد‫.‬"
+
+#: ../instanow-lite-admin.php:100 ../instanow-lite-admin.php:510
+msgid "PRO ONLY"
+msgstr "‎النسخة المدفوعة"
+
+#: ../instanow-lite-admin.php:149 ../instanow-lite-admin.php:156
+msgid "Instagram App info"
+msgstr "‎معلومات Instagram App"
+
+#: ../instanow-lite-admin.php:161
+msgid "Client ID"
+msgstr "Client ID"
+
+#: ../instanow-lite-admin.php:165
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: ../instanow-lite-admin.php:177
+msgid "Submit"
+msgstr "إرسال"
+
+#: ../instanow-lite-admin.php:182
+msgid "How to Get Instagram Client ID and Client Secret?"
+msgstr ""
+
+#: ../instanow-lite-admin.php:185
+#, php-format
+msgid ""
+"Go to %1$shttp://instagram.com/developer%2$s. Login to your account or create "
+"one."
+msgstr ""
+
+#: ../instanow-lite-admin.php:186
+#, php-format
+msgid "Click on %1$s Manage Clients %2$s."
+msgstr ""
+
+#: ../instanow-lite-admin.php:187
+msgid ""
+"If this is the first time you are creating a client, Instagram will ask you a "
+"few questions."
+msgstr ""
+
+#: ../instanow-lite-admin.php:192
+msgid "Check all the fields on the web page:"
+msgstr ""
+
+#: ../instanow-lite-admin.php:194
+#, php-format
+msgid "%1$s your website %2$s – the URL of your website."
+msgstr ""
+
+#: ../instanow-lite-admin.php:195
+#, php-format
+msgid "%1$s phone number %2$s – any phone number."
+msgstr ""
+
+#: ../instanow-lite-admin.php:196
+#, php-format
+msgid "%1$s what do you want to build with API %2$s – any short description."
+msgstr ""
+
+#: ../instanow-lite-admin.php:198
+#, php-format
+msgid "click %1$s Sign Up %2$s, and then click %1$s Manage Clients %2$s again."
+msgstr ""
+
+#: ../instanow-lite-admin.php:201
+#, php-format
+msgid "Click on %1$s Register your application %2$s button."
+msgstr ""
+
+#: ../instanow-lite-admin.php:206
+msgid "Check the fields on the web page:"
+msgstr ""
+
+#: ../instanow-lite-admin.php:212
+#, php-format
+msgid ""
+"%1$s application name %2$s – choose any appropriate name, which fits Instagram "
+"requirements"
+msgstr ""
+
+#: ../instanow-lite-admin.php:213
+#, php-format
+msgid "%1$s description %2$s – any short description"
+msgstr ""
+
+#: ../instanow-lite-admin.php:214
+#, php-format
+msgid "%1$s website URL %2$s – have to be %3$s"
+msgstr ""
+
+#: ../instanow-lite-admin.php:215
+#, php-format
+msgid "%1$s valid redirect URIs %2$s – have to be %3$s"
+msgstr ""
+
+#: ../instanow-lite-admin.php:218
+#, php-format
+msgid ""
+"Now %1$s confirm your data %2$s and proceed to the next page. Here you can see "
+"received Instagram Client ID and Client Secret."
+msgstr ""
+
+#: ../instanow-lite-admin.php:219
+#, php-format
+msgid ""
+"Сopy your all-new Instagram Client ID and Client Secret and paste them in the "
+"fields above, then Click on %1$s Submit %2$s button."
+msgstr ""
+
+#: ../instanow-lite-admin.php:223
+msgid ""
+"You will connect to Instagram’s servers. Instagram will ask you whether you "
+"want to grant the client you will connect to Instagram’s servers. Instagram "
+"will ask you whether you want to grant the App access to your account."
+msgstr ""
+
+#: ../instanow-lite-admin.php:240
+msgid "Error:"
+msgstr "‎خطأ‫:‬"
+
+#: ../instanow-lite-admin.php:241
+msgid "Error Reason:"
+msgstr "‎السبب‫:‬"
+
+#: ../instanow-lite-admin.php:242
+msgid "Error Description:"
+msgstr "‎التفاصيل‫:‬"
+
+#: ../instanow-lite-admin.php:249
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات"
+
+#: ../instanow-lite-admin.php:265
+#, php-format
+msgid ""
+"Instagram Feed plugin for WordPress by <a href=\"%s\" target=\"_blank"
+"\">TieLabs</a>"
+msgstr ""
+"‎إضافة إنستجرام للوردبريس بواسطة <a href=\"%s\" target=\"_blank\">TieLabs</a>"
+
+#: ../instanow-lite-admin.php:276
+msgid "Your account has successfully been authorized"
+msgstr "‎تم ربط حسابك بإنستجرام بنجاح‫!‬"
+
+#: ../instanow-lite-admin.php:278
+msgid ""
+"Feeds not displaying? There might be a problem with your current Authorization. "
+"Use the button below to try re-authorizing with Instagram."
+msgstr ""
+"‎هل تواجه مشكلة؟ ربما يكون هناك مشكله في عملية ربط حسابك بإنستجرام‫.‬ إستخدم الزر "
+"في الإسفل لإعادة عملية الربط من جديد"
+
+#: ../instanow-lite-admin.php:279
+msgid "Re-Authorize with Instagram"
+msgstr "‎إعادة الربط مع إنستجرام"
+
+#: ../instanow-lite-admin.php:285
+msgid "Account not yet Authorized"
+msgstr "‎لم يتم ربط حسابك مع إنستجرام"
+
+#: ../instanow-lite-admin.php:287
+msgid ""
+"Use the button below to begin the Authorization process. You will be redirected "
+"to Instagram to sign in and authorize this plugin. Once you authorize the "
+"plugin, you will be redirected to this page."
+msgstr ""
+"‎إستخدم الزر بالإسفل لبدأ عملية ربط حسابك بإنستجرام‫.‬ سيتم تحويلك لصفحة الدخول في "
+"إنستجرام لإتمام عملية الربط ثم سيتم إعادتك لهذه الصفحة مرة أخرى ‫.‬"
+
+#: ../instanow-lite-admin.php:288
+msgid "Authorize with Instagram"
+msgstr "‎ربط حساب بإنستجرام"
+
+#: ../instanow-lite-admin.php:303
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: ../instanow-lite-admin.php:308
+msgid "Custom CSS"
+msgstr "CSS خاص"
+
+#: ../instanow-lite-admin.php:324
+msgid "LightBox Settings"
+msgstr "إعدادات LightBox "
+
+#: ../instanow-lite-admin.php:329
+msgid "Skin"
+msgstr "القالب"
+
+#: ../instanow-lite-admin.php:343
+msgid "Thumbnail Position"
+msgstr "مكان مصغرات الصور"
+
+#: ../instanow-lite-admin.php:346
+msgid "Vertical"
+msgstr "رأسي"
+
+#: ../instanow-lite-admin.php:347
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: ../instanow-lite-admin.php:352
+msgid "Show Arrows"
+msgstr "تفعيل الأسهم"
+
+#: ../instanow-lite-admin.php:366
+msgid "Save"
+msgstr "‎حفظ الإعدادات"
+
+#: ../instanow-lite-admin.php:377
+msgid "Upgrade to InstaNOW PRO and get a lot of features:"
+msgstr "‎الترقية إلى نسخة InstaNow المدفوعة و أحصل على العديد من المميزات‫:‬"
+
+#: ../instanow-lite-admin.php:380
+msgid "Show Photos from any public account."
+msgstr ""
+
+#: ../instanow-lite-admin.php:381
+msgid "Show Photos from any hashtag."
+msgstr ""
+
+#: ../instanow-lite-admin.php:385
+msgid "Faster Support."
+msgstr "‎دعم فني سريع‫.‬"
+
+#: ../instanow-lite-admin.php:396
+msgid "Enjoying InstaNOW Lite?"
+msgstr "‎هل أعجبتك Enjoying InstaNOW Lite?"
+
+#: ../instanow-lite-admin.php:397
+#, php-format
+msgid ""
+"If you like our product please <a href=\"%s\" target=\"_blank\">Leave us a "
+"positive review</a>, that will help us a lot on improving our items and the "
+"support as well … A huge thank you from TieLabs in advance!"
+msgstr ""
+"‎إذا أعجبتك الإضافة فأترك لنا <a href=\"%s\" target=\"_blank\"> تقييم</a>, هذا "
+"سيساعدنا في تقديم المزيد من التحديثات و الدعم … شكراً لك مقدماً ‫:)‬"
+
+#: ../instanow-lite-admin.php:399
+msgid "- Upgrade to the PRO version"
+msgstr "‎- الترقية إلى نسخة InstaNow المدفوعة"
+
+#: ../instanow-lite-admin.php:400
+msgid "- More Themes & plugins"
+msgstr "‎- المزيد من القوالب و الإضافات"
+
+#: ../instanow-lite-admin.php:401
+#, php-format
+msgid ""
+"- Follow us on <a href=\"%1$s\" target=\"_blank\">Twitter</a> or <a href=\"%2$s"
+"\" target=\"_blank\">Facebook</a>."
+msgstr ""
+"‎- تابعنا على <a href=\"%1$s\" target=\"_blank\">تويتر</a> أو <a href=\"%2$s\" "
+"target=\"_blank\">فيسبوك</a>."
+
+#: ../instanow-lite-admin.php:427
+msgid "Instagram Feed"
+msgstr "‎صور إنستجرام"
+
+#: ../instanow-lite-admin.php:482
+msgid "Instagram"
+msgstr "‎إنستجرام"
+
+#: ../instanow-lite-admin.php:528
+msgid "Widget Title"
+msgstr "العنوان"
+
+#: ../instanow-lite-admin.php:533
+msgid "Widget Skin"
+msgstr "القالب"
+
+#: ../instanow-lite-admin.php:538
+msgid "Default Skin"
+msgstr "القالب الإفتراضي"
+
+#: ../instanow-lite-admin.php:542
+msgid "Lite Skin"
+msgstr "القالب البسيط"
+
+#: ../instanow-lite-admin.php:546
+msgid "Dark Skin"
+msgstr "القالب الغامق"
+
+#: ../instanow-lite-admin.php:554
+msgid "Show the Instagram Box only"
+msgstr "عرض مربع إنستجرام فقط"
+
+#: ../instanow-lite-admin.php:555
+msgid "Will avoid the theme widget design and hide the widget title ."
+msgstr "سيقوم بتجاهل تصميم ويدجت القالب و إخفاء العنوان"
+
+#: ../instanow-lite-admin.php:560 ../instanow-lite.php:37
+msgid "Show the Instagram logo bar"
+msgstr "عرض شعار إنستجرام"
+
+#: ../instanow-lite-admin.php:565 ../instanow-lite.php:38
+msgid "Open links in a new window"
+msgstr "فتح الروابط في صفحات جديدة"
+
+#: ../instanow-lite-admin.php:570 ../instanow-lite.php:39
+msgid "Nofollow"
+msgstr "إضافة وسم Nofollow للروابط"
+
+#: ../instanow-lite-admin.php:575 ../instanow-lite.php:40
+msgid "Give us a credit"
+msgstr "عرض إسم الإضافة أسفل منطقة الصور"
+
+#: ../instanow-lite-admin.php:581 ../instanow-lite.php:36
+msgid "Get media from"
+msgstr "‎جلب الصور من"
+
+#: ../instanow-lite-admin.php:586
+msgid "Self"
+msgstr ""
+
+#: ../instanow-lite-admin.php:590
+msgid "Public User Account"
+msgstr ""
+
+#: ../instanow-lite-admin.php:594
+msgid "Hash Tag"
+msgstr "‎وسم (هاشتاج)"
+
+#: ../instanow-lite-admin.php:603 ../instanow-lite.php:41
+msgid "Show the Account Info area"
+msgstr "عرض معلومات الحساب"
+
+#: ../instanow-lite-admin.php:607 ../instanow-lite.php:42
+msgid "Position"
+msgstr "‎الموضع"
+
+#: ../instanow-lite-admin.php:609 ../instanow-lite.php:43
+msgid "Top of the widget"
+msgstr "فوق الصور"
+
+#: ../instanow-lite-admin.php:610 ../instanow-lite.php:44
+msgid "End of the widget"
+msgstr "تحت الصور"
+
+#: ../instanow-lite-admin.php:615 ../instanow-lite-admin.php:707
+#: ../instanow-lite.php:57
+msgid "Layout"
+msgstr "النمط"
+
+#: ../instanow-lite-admin.php:620
+msgid "Layout 1"
+msgstr "نمط 1"
+
+#: ../instanow-lite-admin.php:626
+msgid "Layout 2"
+msgstr "نمط 2"
+
+#: ../instanow-lite-admin.php:633
+msgid "Layout 3"
+msgstr "نمط 3"
+
+#: ../instanow-lite-admin.php:645 ../instanow-lite.php:45
+msgid "Show the Full name"
+msgstr "عرض الإسم الكامل"
+
+#: ../instanow-lite-admin.php:650 ../instanow-lite.php:46
+msgid "Show the Website URL"
+msgstr "عرض موقع الويب"
+
+#: ../instanow-lite-admin.php:655 ../instanow-lite.php:47
+msgid "Show the bio"
+msgstr "عرض النبذة الشخصية"
+
+#: ../instanow-lite-admin.php:660 ../instanow-lite.php:48
+msgid "Show the account stats"
+msgstr "عرض إحصائيات الحساب"
+
+#: ../instanow-lite-admin.php:664 ../instanow-lite.php:49
+msgid "Avatar shape"
+msgstr "شكل صورة الحساب"
+
+#: ../instanow-lite-admin.php:666 ../instanow-lite.php:50
+msgid "Square"
+msgstr "مربع"
+
+#: ../instanow-lite-admin.php:667 ../instanow-lite.php:51
+msgid "Round"
+msgstr "حواف دائرية"
+
+#: ../instanow-lite-admin.php:668 ../instanow-lite.php:52
+msgid "Circle"
+msgstr "دائرة"
+
+#: ../instanow-lite-admin.php:673 ../instanow-lite.php:53
+msgid "Avatar Width & Height"
+msgstr "أبعاد صورة الحساب"
+
+#: ../instanow-lite-admin.php:674
+msgid "px"
+msgstr "بكسل"
+
+#: ../instanow-lite-admin.php:678
+msgid "- Media Settings -"
+msgstr "- إعدادت الصور -"
+
+#: ../instanow-lite-admin.php:681 ../instanow-lite.php:54
+msgid "Number of Media items"
+msgstr "عدد الصور"
+
+#: ../instanow-lite-admin.php:687
+#, php-format
+msgid ""
+"- Upgrade to the <span class=\"tie-insta-pro-only\"><a href=\"%s\" target="
+"\"_blank\">PRO version</a><span> to show more than 20 photos."
+msgstr ""
+"‎- قم بالترقية ل <span class=\"tie-insta-pro-only\"><a href=\"%s\" target="
+"\"_blank\">النسخة المدفوعة</a><span> لتتمكن من عرض أكثر من ٢٠ صورة‫.‬"
+
+#: ../instanow-lite-admin.php:691 ../instanow-lite.php:55
+msgid "Link to"
+msgstr "ربط الصورة بـ"
+
+#: ../instanow-lite-admin.php:695 ../instanow-lite.php:58
+msgid "None"
+msgstr "لا شئ"
+
+#: ../instanow-lite-admin.php:698 ../instanow-lite.php:56
+msgid "Media page on Instagram"
+msgstr "صفحة الصورة على إنستجرام"
+
+#: ../instanow-lite-admin.php:701
+msgid "Media File - LightBox"
+msgstr "‎عرض الصورة ‫-‬ لايت بوكس"
+
+#: ../instanow-lite-admin.php:709 ../instanow-lite.php:59
+msgid "Grid"
+msgstr "النمط العادي ( أعمدة )"
+
+#: ../instanow-lite-admin.php:710 ../instanow-lite.php:60
+msgid "Slider"
+msgstr "سلايدر متحرك"
+
+#: ../instanow-lite-admin.php:716
+msgid "Number of Columns"
+msgstr "عدد الأعمدة"
+
+#: ../instanow-lite-admin.php:725
+msgid "Flat Images (Without borders, margins and shadows)"
+msgstr "‎صور مسطحة ‫(‬بدون حدود أو مسافات آو ظلال‫)‬"
+
+#: ../instanow-lite-admin.php:729
+msgid "Enable Load More Button"
+msgstr "‎تفعيل زر عرض المزيد"
+
+#: ../instanow-lite-admin.php:735
+msgid "Slider Speed"
+msgstr "سرعة السلايدر"
+
+#: ../instanow-lite-admin.php:736
+msgid "ms"
+msgstr "‎ملّي ثانية"
+
+#: ../instanow-lite-admin.php:739
+msgid "Animation Effect"
+msgstr "التأثير"
+
+#: ../instanow-lite-admin.php:753
+msgid "Show Media comments and likes number"
+msgstr "عرض عدد التعليقات ومرات الإعجاب"
+
+#: ../instanow-lite-admin.php:879
+msgid "PRO Version"
+msgstr "‎النسخة المدفوعة"
+
+#: ../instanow-lite.php:35
+msgid "InstaNow Lite Shortcodes"
+msgstr "‎الأكواد المختصزة ‫-‬ InstaNow Lite"
+
+#: ../instanow-lite.php:61
+msgid "GRID - Number of Columns"
+msgstr "النمط العادي - عدد الأعمدة"
+
+#: ../instanow-lite.php:62
+msgid "GRID - Flat Images (Without borders, margins and shadows)"
+msgstr "‎النمط العادي ‫-‬ صور مسطحة (بدون حدود أو مسافات آو ظلال)"
+
+#: ../instanow-lite.php:63
+msgid "SLIDER - Speed (ms)"
+msgstr "‎سلايدر - سرعه السلايدر"
+
+#: ../instanow-lite.php:64
+msgid "SLIDER - Animation Effect"
+msgstr "سلايدر - نوع الحركة"
+
+#: ../instanow-lite.php:65
+msgid "SLIDER - Show Media comments and likes number"
+msgstr "سلايدر - عرض عدد التعليقات و مرات الإعجاب"
+
+#: ../instanow-lite.php:160
+msgid "Follow"
+msgstr "تابِع"
+
+#: ../instanow-lite.php:226
+msgid "Error : Couldn't Get Data From Instegram"
+msgstr "خطأ : غير قادر على جلب البيانات من إنستجرام"
+
+#: ../instanow-lite.php:265
+msgid "Posts"
+msgstr "صور"
+
+#: ../instanow-lite.php:269
+msgid "Followers"
+msgstr "متابِعون"
+
+#: ../instanow-lite.php:273
+msgid "Following"
+msgstr "متابَعون"
+
+#: ../instanow-lite.php:353
+msgid "InstaNow Lite Plugin by TieLabs"
+msgstr ""
+
+#~ msgid "Cache Time (hours) "
+#~ msgstr "‎مدة حفظ الكاش ‫(‬ بالساعات ‫)‬"
+
+#~ msgid "User Account"
+#~ msgstr "‎حساب مستخدم"
+
+#~ msgid "Instagram HashTag"
+#~ msgstr "‎الوسم (هاشتاج)"
+
+#~ msgid "A valid tag name without a leading #. (eg. flatdesign, food)"
+#~ msgstr "‎أدخل إسم وسم (هاشتاج) صحيح بدون # . ( مثال : flatdesign, food )"
+
+#~ msgid "Show the Hash Tag name"
+#~ msgstr "‎عرض إسم الوسم (هاشتاج)"
+
+#~ msgid "Instagram account Username"
+#~ msgstr "إسم المستخدم"
+
+#~ msgid "Instagram HashTag (Without #)"
+#~ msgstr "‎الوسم (هاشتاج) بدون ‫#‬"
+
+#~ msgid "Set an access token first"
+#~ msgstr "‎يجب تعيين access token آولاً ‫!‬"
+
+#~ msgid "InstaNow Lite - WordPress Plugin"
+#~ msgstr "InstaNow Lite - إضافة ووردبريس"
+
+#~ msgid "Need help? The TieLabs team is here for you :)"
+#~ msgstr "‎هل تحتاج إلي مساعدة؟"
+
+#~ msgid ""
+#~ "View the plugin <a href=\"%1$s\" target=\"_blank\">Documentation</a> or post "
+#~ "a <a href=\"%2$s\" target=\"_blank\">support question</a>."
+#~ msgstr ""
+#~ "‎تصفح <a href=\"%1$s\" target=\"_blank\">توثيق الإضافة</a> أو  <a href=\"%2$s"
+#~ "\" target=\"_blank\">إرسل تذكرة دعم فني</a>."
+
+#~ msgid "Enjoying InstaNOW?"
+#~ msgstr "‎هل أعجبتك الإضافة؟"
+
+#~ msgid ""
+#~ "If you like our product please leave us a <a href=\"%s\" target=\"_blank"
+#~ "\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating, that will help us a lot "
+#~ "on improving our items and the support as well … A huge thank you from "
+#~ "TieLabs in advance!"
+#~ msgstr ""
+#~ "‎إذا أعجبتك الإضافة فأترك لنا تقييم <a href=\"%s\" target=\"_blank\">&#9733;"
+#~ "&#9733;&#9733;&#9733;&#9733;</a>, هذا سيساعدنا في تقديم المزيد من التحديثات "
+#~ "و الدعم … شكراً لك مقدماً ‫:)‬"
+
+#~ msgid "instagram"
+#~ msgstr "‎إنستجرام"
+
+#~ msgid "Media File"
+#~ msgstr "ملف الصورة"
+
+#~ msgid "Number of items to load each time"
+#~ msgstr "‎عدد العناصر التي يتم تحميلها في كل مرة"
+
+#~ msgid "More plugins by TieLabs"
+#~ msgstr "‎المزيد من الإضافات بواسطة TieLabs"
+
+#~ msgid "Flat Images"
+#~ msgstr "‎صور مسطحة"
+
+#~ msgid "InstaNow Shortcodes"
+#~ msgstr "‎أكواد مختصره إنستجرام"
+
+#~ msgid "GRID - Enable Load More Button"
+#~ msgstr "‎النمط العادي ‫-‬ تفعيل زر عرض المزيد"
+
+#~ msgid "GRID - Number of items to load each time"
+#~ msgstr "‎النمط العادي - عدد العناصر التي يتم تحميلها في كل مرة"
+
+#~ msgid "Load More"
+#~ msgstr "‎عرض المزيد"
+
+#~ msgid "InstaNow - WordPress Plugin"
+#~ msgstr "InstaNow - إضافة إنستجرام لووردبريس"
+
+#~ msgid "Skin :"
+#~ msgstr "‎النمط"
+
+#~ msgid "Follow The Team"
+#~ msgstr "تابعنا"
+
+#~ msgid "Follow @tielabs and @imo3aser on instagram."
+#~ msgstr "تابع @tielabs و @imo3aser على إنستجرام "
+
+#~ msgid "Need Help?"
+#~ msgstr "هل تحتاج لمساعدة ؟"
+
+#~ msgid "Enter Your App Client ID and App Client Secret ,"
+#~ msgstr "أدخل ال Client ID و Client Secret "
+
+#~ msgid "Click Here"
+#~ msgstr "إضغط هنا"
+
+#~ msgid "For More Details."
+#~ msgstr "لمزيد من المعلومات"
+
+#~ msgid "Access Token Key"
+#~ msgstr "Access Token Key"
+
+#~ msgid "Get Access Token"
+#~ msgstr "‎جلب Access Token"
+
+#~ msgid "Cache Time"
+#~ msgstr "حفظ الكاش لمدة"
+
+#~ msgid "hours"
+#~ msgstr "ساعات"
+
+#~ msgid "Plugin Docs"
+#~ msgstr "توثيق الإضافة"
+
+#~ msgid "Support"
+#~ msgstr "الدعم الفني"
+
+#~ msgid "Rate instagramy"
+#~ msgstr "قيم  instagramy"
+
+#~ msgid "Instagramy Shortcodes"
+#~ msgstr "Instagramy الأكواد المختصرة"
+
+#~ msgid "Instagramy - WordPress Plugin"
+#~ msgstr "Instagramy - إضافة ووردبريس"
+
+#~ msgid "User Feed"
+#~ msgstr "صور من حساب مستخدم"
+
+#~ msgid "- Account Info settings -"
+#~ msgstr "- إعدادات بيانات الحساب -"
+
+#~ msgid "LightBox Skin"
+#~ msgstr "نمط LightBox"
+
+#~ msgid "LightBox Thumbnail"
+#~ msgstr "تفعيل الصور "
